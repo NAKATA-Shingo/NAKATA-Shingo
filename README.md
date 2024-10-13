@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @NAKATA-Shingo
+- 👀 I’m interested in Python, .NET Framework and astronomy.
